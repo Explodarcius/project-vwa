@@ -5,4 +5,22 @@ id_rsa
 id_rsa.pub
 id_ed25519
 id_ed25519.pub
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# SQLite database
+*.db
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
 
